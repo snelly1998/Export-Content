@@ -5,6 +5,9 @@
  * Description: Custom Export.
  * Version: 1.1.0
  * Author: Jared Snell
+ * Plugin URI: https://github.com/snelly1998/Export-Content
+ * License: WTFPL
+ * License URI: https://choosealicense.com/licenses/wtfpl/
  **/
 
 ob_start();
